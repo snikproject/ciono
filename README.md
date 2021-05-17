@@ -20,8 +20,7 @@ Compiling: Java 8 SDK, Maven
 As a research prototype for a masters's thesis, we cannot offer support for CIONo.
 It was tested with Cytoscape 3.4.0 and may not work with other future versions.
 The author of the thesis and the prototype is Anatoli Zeiser, but he finished University
-and probably does not have time to support it as well but we will ask him if there are issues in the tracker.
-Nevertheless you are free to participate in the project and we will merge pull requests.
+and probably does not have time to support it as well.
 
 # Licensing
 We absolutely encorage you to use, extend or do whatever you want with the code in conformance to the GNU GPL v3.0.
